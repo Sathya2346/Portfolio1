@@ -1,0 +1,103 @@
+.Oveabo{
+    background-color: #d6dbf3;
+}
+.abover{
+    display: flex;
+}
+.header{
+    text-align: center;
+}
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 800px;
+    color: white;
+    background-color:#363841;
+    padding:10px 16px;
+    
+}
+.nav a:hover{
+    color: black;
+}
+.nav>a{
+    text-decoration:none;
+    color: aliceblue;
+}
+.about{
+    height: 100vh;
+}
+img{
+    width:400px;
+    height: 95vh;
+}
+.abcontent{
+margin-left:50px;
+font-size:x-large
+}
+.service{
+    padding-top: 10%;
+    height: 100vh;
+}
+.service p,h3 {
+    padding-left: 3%;
+
+}
+th{
+    background-color:#b8cfe4;
+    width:30%;
+    height: 25vh;
+    padding: 50px;    
+}
+.test{
+    padding-top: 10%;
+    height: 100vh;
+}
+.test p,h4{
+    padding-left: 3%;
+}
+.testcon{
+    display: flex;
+    text-align: center;
+    gap: 5%;
+    margin: 10%;
+    margin-top: 0%;
+}
+.testcon img{
+    border-radius: 50%;
+    width:100px;
+    height:15vh;
+}
+.testcon1{
+    background-color:#b8cfe4;
+    padding: 5%;
+}
+.plan{
+    display: flex;
+    margin:10%;
+    gap: 5%;
+}
+.choplan h3,p{
+    padding-left: 3%;
+   
+}
+.plancon1{
+    width: 30%;
+    text-align: center;
+    padding-left: 5%;
+    background-color: #b8cfe4;
+    padding: 5%;
+}
+.plancon2{
+    width: 30%;
+    text-align: center;
+    padding-left: 5%;
+    background-color: #b8cfe4;
+    padding: 5%;
+}
+.plancon3{
+    width: 30%;
+    text-align: center;
+    padding-left: 5%;
+    background-color: #b8cfe4;
+    padding: 5%;
+}

@@ -1,0 +1,68 @@
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 800px;
+    color: white;
+    background-color:#363841;
+    padding:10px 16px;
+    
+}
+.nav a:hover{
+    color: black;
+}
+.nav>a{
+    text-decoration:none;
+    color: aliceblue;
+}
+.resov{
+    background-color: #d6dbf3;
+}
+.resover{
+    height: 100vh;
+}
+.resheader{
+    text-align: center;
+}
+.reseducation{
+    display: flex;
+    margin: 5%;
+    gap: 5%;
+}
+.resedu0{
+    width: 50%;
+}
+.resedu2{
+    width: 50%;
+}
+.border {
+    border-left: 5px solid rgb(98, 220, 98);
+}
+.resedu1{
+    text-indent: 10px;
+    background-color:  #b8cfe4;
+    height: 30vh;
+    padding-top:3%;
+    border-bottom: 2px solid #d6dbf3;
+}
+.overlevel{
+    height: 100vh;
+    padding: 5%;
+}
+.skills{
+    display: flex;
+}
+.skill1{
+    width:50%;
+    padding: 5%;
+    height: 80vh;
+}
+progress{
+    font-size:xx-large;
+    width:100%;
+}
+.office{
+    display: flex;
+}
+.office1{
+    width: 40%;
+}

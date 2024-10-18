@@ -1,0 +1,48 @@
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 800px;
+    color: white;
+    background-color:#363841;
+    padding:10px 16px;
+    
+}
+.nav a:hover{
+    color: black;
+}
+.nav>a{
+    text-decoration:none;
+    color: aliceblue;
+}
+img{
+    position: relative;
+
+}
+.content{
+    position: absolute;
+    top: 30px;
+    left:600px;
+}
+.content{
+    color: #53BDEB;
+    text-align: center;
+    height:80vh;
+    padding-top: 10%;
+    font-size: xx-large;
+    
+}
+.links{
+    position: absolute;
+    top:300px;
+    right: 0px;
+    text-decoration: none;
+    border:1px solid red;
+}
+.li a{
+    margin: 10px;
+    padding:16px 16px;
+}
+.overall{
+    background-color: black;
+    position: relative;
+}
